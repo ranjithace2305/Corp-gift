@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>E-Wallet Request by Managers</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>E-Wallet Request by Managers</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">565a170bb4232110320f8dc279c804ed</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-04 06:20:37</sys_created_on>
+        <sys_id>e970d49147af7110e062dac8536d43bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>E-Wallet Request by Managers</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_277372_corpora_0">c9374859476f7110e062dac8536d4378</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">c9374859476f7110e062dac8536d4378</sys_scope>
+        <sys_update_name>sys_wizard_answer_e970d49147af7110e062dac8536d43bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-04 06:20:37</sys_updated_on>
+        <table/>
+        <target_url>x_277372_corpora_0_e_wallet_request_by_managers.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">c9374859476f7110e062dac8536d4378</application>
+        <file_path/>
+        <instance_id>443c2251db39a51442b321c4059619ab</instance_id>
+        <instance_name>dev168306</instance_name>
+        <name>sys_wizard_answer_e970d49147af7110e062dac8536d43bc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>E-Wallet Request by Managers</answer><button_label/><dependent_value/><element/><name>E-Wallet Request by Managers</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">565a170bb4232110320f8dc279c804ed</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-04 06:20:37</sys_created_on><sys_id>e970d49147af7110e062dac8536d43bc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>E-Wallet Request by Managers</sys_name><sys_package display_value="Corporate Gifting" source="x_277372_corpora_0">c9374859476f7110e062dac8536d4378</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">c9374859476f7110e062dac8536d4378</sys_scope><sys_update_name>sys_wizard_answer_e970d49147af7110e062dac8536d43bc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-04 06:20:37</sys_updated_on><table/><target_url>x_277372_corpora_0_e_wallet_request_by_managers.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>145880563</payload_hash>
+        <record_name>E-Wallet Request by Managers</record_name>
+        <reverted_from/>
+        <source>73e4c73147023110e062dac8536d43e7</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-23 19:11:54</sys_created_on>
+        <sys_id>7738c069472fb110e062dac8536d4318</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18b5df364900000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>3738c0694e2fb110aeca18837cec1118</update_guid>
+        <update_guid_history>3738c0694e2fb110aeca18837cec1118:145880563</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-05 00:23:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>1907649bcd0547748591f0d6721b1b81</sys_id>
+        <sys_metadata>e970d49147af7110e062dac8536d43bc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>E-Wallet Request by Managers</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_277372_corpora_0">c9374859476f7110e062dac8536d4378</sys_package>
+        <sys_parent display_value="Task">565a170bb4232110320f8dc279c804ed</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">c9374859476f7110e062dac8536d4378</sys_scope>
+        <sys_scope_delete display_value="">088fe688d90f494b8268a041a66ace19</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_e970d49147af7110e062dac8536d43bc</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_e970d49147af7110e062dac8536d43bc">7738c069472fb110e062dac8536d4318</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-05 00:23:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

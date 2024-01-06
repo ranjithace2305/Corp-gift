@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_pipeline_environment_order">
+    <sn_pipeline_pipeline_environment_order action="INSERT_OR_UPDATE">
+        <environment display_value="Dev">80cfcba5472bf110e062dac8536d43af</environment>
+        <order>100</order>
+        <pipeline display_value="Ranjith corp App">c7115329472bf110e062dac8536d43c5</pipeline>
+        <sys_class_name>sn_pipeline_pipeline_environment_order</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-05 15:06:10</sys_created_on>
+        <sys_id>c7421b29472bf110e062dac8536d4313</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Corporate Gifting" source="x_277372_corpora_0">c9374859476f7110e062dac8536d4378</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">c9374859476f7110e062dac8536d4378</sys_scope>
+        <sys_update_name>sn_pipeline_pipeline_environment_order_c7421b29472bf110e062dac8536d4313</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-05 15:06:10</sys_updated_on>
+    </sn_pipeline_pipeline_environment_order>
+</record_update>
