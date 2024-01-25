@@ -2,7 +2,7 @@
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
         <can_edit_in_studio>true</can_edit_in_studio>
-        <enforce_license>none</enforce_license>
+        <enforce_license>log</enforce_license>
         <guided_setup_guid/>
         <hide_on_ui>false</hide_on_ui>
         <installed_as_dependency>false</installed_as_dependency>
@@ -13,7 +13,7 @@
         <license_definition/>
         <license_model>none</license_model>
         <logo/>
-        <menu/>
+        <menu display_value="Corporate Gifting">4659550347a3b110e062dac8536d43ed</menu>
         <name>Corporate Gifting</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
@@ -29,13 +29,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-04 05:40:11</sys_created_on>
         <sys_id>c9374859476f7110e062dac8536d4378</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-05 21:39:37</sys_updated_on>
+        <sys_updated_on>2024-01-09 22:16:38</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
-        <user_role/>
+        <user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.5</version>

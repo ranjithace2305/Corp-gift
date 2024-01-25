@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="E-Voucher Request">f82d290947333110e062dac8536d4366</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-16 04:44:34</sys_created_on>
+        <sys_id>7f8ded0947333110e062dac8536d43ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.E-Voucher Request</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_277372_corpora_0">c9374859476f7110e062dac8536d4378</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">c9374859476f7110e062dac8536d4378</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_7f8ded0947333110e062dac8536d43ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-16 04:44:34</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

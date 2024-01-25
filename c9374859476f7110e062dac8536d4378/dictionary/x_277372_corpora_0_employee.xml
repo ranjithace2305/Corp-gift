@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="f510509147af7110e062dac8536d4383" extends="sys_user" label="Employee" max_length="40" name="x_277372_corpora_0_employee" type="collection">
         <element label="Awards/Appreciations" max_length="40" name="awards_appreciations" type="string"/>
-        <element label="E-Wallet Balance" max_length="255" name="e_wallet_balance" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="E-Wallet Balance" max_length="255" name="e_wallet_balance" read_only="true" reference_qual="null" reference_qual_condition="null" type="integer"/>
         <element label="E-Wallet Balance Validity" max_length="255" name="e_wallet_balance_validity" type="glide_date"/>
-        <element label="E-Wallet Budget" max_length="255" name="e_wallet_budget" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="E-Wallet Budget" max_length="255" name="e_wallet_budget" read_only="true" type="integer"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:getNextObjNumberPadded();" display="true" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Employee Number" max_length="40" name="number" type="string" use_dynamic_default="true"/>
         <element choice="1" label="Position Level" max_length="40" name="position_level" type="choice">
             <choice>

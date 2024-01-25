@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>700</order>
+        <published_ref/>
+        <question display_value="E-Voucher Amount">33a795af47b37910e062dac8536d43ac</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-23 23:11:34</sys_created_on>
+        <sys_id>6dad212b47377910e062dac8536d4387</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Rs.1000</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_277372_corpora_0">c9374859476f7110e062dac8536d4378</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">c9374859476f7110e062dac8536d4378</sys_scope>
+        <sys_update_name>question_choice_6dad212b47377910e062dac8536d4387</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-23 23:13:33</sys_updated_on>
+        <text>Rs.1000</text>
+        <value>1000</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=6dad212b47377910e062dac8536d4387"/>
+</record_update>

@@ -4,13 +4,13 @@
             <element>e_wallet_balance</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-04 07:04:04</sys_created_on>
-            <sys_id>4a6a58d947af7110e062dac8536d43d1</sys_id>
+            <sys_created_on>2024-01-06 03:45:17</sys_created_on>
+            <sys_id>2110c27d47a33510e062dac8536d43cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_277372_corpora_0_employee" sys_domain="global" view="Default view">03e6901947af7110e062dac8536d4363</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-04 07:04:04</sys_updated_on>
+            <sys_updated_on>2024-01-06 03:45:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,43 +18,71 @@
             <element>e_wallet_balance_validity</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-04 07:04:04</sys_created_on>
-            <sys_id>ca6a58d947af7110e062dac8536d43d1</sys_id>
+            <sys_created_on>2024-01-06 03:45:17</sys_created_on>
+            <sys_id>2910c27d47a33510e062dac8536d43cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_277372_corpora_0_employee" sys_domain="global" view="Default view">03e6901947af7110e062dac8536d4363</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-04 07:04:04</sys_updated_on>
+            <sys_updated_on>2024-01-06 03:45:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>e_wallet_budget</element>
+            <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-04 07:04:04</sys_created_on>
-            <sys_id>4e6a58d947af7110e062dac8536d43d1</sys_id>
+            <sys_created_on>2024-01-06 03:45:17</sys_created_on>
+            <sys_id>2d10c27d47a33510e062dac8536d43cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_277372_corpora_0_employee" sys_domain="global" view="Default view">03e6901947af7110e062dac8536d4363</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-04 07:04:04</sys_updated_on>
+            <sys_updated_on>2024-01-06 03:45:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>e_wallet_budget</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-06 03:45:17</sys_created_on>
+            <sys_id>2110c27d47a33510e062dac8536d43ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_277372_corpora_0_employee" sys_domain="global" view="Default view">03e6901947af7110e062dac8536d4363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-06 03:45:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>awards_appreciations</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-01-04 07:04:04</sys_created_on>
-            <sys_id>ce6a58d947af7110e062dac8536d43d1</sys_id>
+            <sys_created_on>2024-01-06 03:45:17</sys_created_on>
+            <sys_id>2510c27d47a33510e062dac8536d43ce</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_277372_corpora_0_employee" sys_domain="global" view="Default view">03e6901947af7110e062dac8536d4363</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-01-04 07:04:04</sys_updated_on>
+            <sys_updated_on>2024-01-06 03:45:17</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-06 03:45:17</sys_created_on>
+            <sys_id>2910c27d47a33510e062dac8536d43ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_277372_corpora_0_employee" sys_domain="global" view="Default view">03e6901947af7110e062dac8536d4363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-06 03:45:17</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Corporate Appreciations</caption>
